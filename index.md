@@ -2,7 +2,7 @@
 title: "Valerie Zhao"
 ---
 
-![avatar](https://raw.github.com/wy-go/WanbingZhao.github.io/main/wbzhao.jpg)
+![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zhaowanbing911@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wbzhao/)
 
