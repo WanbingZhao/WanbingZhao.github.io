@@ -31,4 +31,4 @@ My research interests lie in theory of quantum information, quantum computation 
 - 09/2019-09/2020 Research Assitant: Department of Physics, Shandong University
 
 ## Essay
-- [The Influence of Music (English)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/The%20Influence%20of%20Music.pdf)
+- [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
