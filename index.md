@@ -20,9 +20,9 @@ My research interests lie in theory of quantum information, quantum computation 
 
 - [Theoretical study on the electronic structures and transport properties of Ti32-xHfxNi32Sn32-ySby half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
-Zhao, L., Wang, J., **Zhao, W.**, Wang, Q., Li, J., Liu, J., Wang, C.
+  Zhao, L., Wang, J., **Zhao, W.**, Wang, Q., Li, J., Liu, J., Wang, C.
 
-Physica B: Condensed Matter, 2020
+  Physica B: Condensed Matter, 2020
 
 ## Research
 
