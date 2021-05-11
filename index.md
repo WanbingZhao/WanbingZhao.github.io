@@ -14,7 +14,7 @@ My research interests lie in theory of quantum information, quantum computation 
 
 ## News
 
-- [March 2021] I passed exam AI-900: Microsoft Azure AI Fundamentals.
+- [March 2021]
 
 ## Publications
 
@@ -28,4 +28,4 @@ My research interests lie in theory of quantum information, quantum computation 
 
 - 02/2021 Research Assistant: Department of Physics, Shanghai Jiao Tong University
 
-- 09/2019-09/2020 Research Asssitant: Department of Physics, Shandong University
+- 09/2019-09/2020 Research Assitant: Department of Physics, Shandong University
