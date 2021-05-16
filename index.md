@@ -8,7 +8,7 @@ title: "Valerie Zhao"
 
 # Valerie Zhao
 
-I am a 3rd year physics undergraduate student at Shandong University, where I have been lucky to be advised by [XXX](#).
+I am a 3rd year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](#).
 
 My research interests lie in theory of quantum information, quantum computation and the interface of quantum information and condensed matter physics. My motivation is to xxx. 
 
