@@ -29,7 +29,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## Research
 
-- 03/2022-present  [Dianmin Tong Group](https://www.researchgate.net/profile/Dianmin-Tong)  
+- 03/2022-present  [Dianmin Tong Group](https://www.researchgate.net/lab/Dianmin-Tong-Lab)  
   
      Study the effeciency of quantum error mitigation
 
