@@ -8,15 +8,18 @@ title: "Valerie Zhao"
 
 # Valerie Zhao
 
-I am a 3rd year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](#).
+I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by [Guofu Xu](#) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
 
-My research interests lie in theory of quantum information, quantum computation and the interface of quantum information and condensed matter physics. My motivation is to xxx. 
+I've also visited [Guorui Chen](https://2d.sjtu.edu.cn/)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
+
+My research interests lie in quantum foundation, interface between quantum physics and computer science. My motivation is to xxx. 
 
 ## News
 
 - [March 2021]
 
 ## Publications
+- [Measurement Error Mitigation with Neural Networks](#)(not yet online)
 
 - [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
@@ -26,9 +29,16 @@ My research interests lie in theory of quantum information, quantum computation 
 
 ## Research
 
-- 02/2021 Research Assistant: Department of Physics, Shanghai Jiao Tong University
+- 03/2022-present    
+- Graduation Project: Department of Physics, Shandong University
 
-- 09/2019-09/2020 Research Assitant: Department of Physics, Shandong University
+- 08/2021-present  Undergraduate Intern: Center on Frontiers of Computing Studies, Peking University
+
+- 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/0\)
+
+     Updated the existing two-dimensional material transfer station
+
+- 09/2019-09/2020  Research Assitant: Department of Physics, Shandong University
 
 ## Essay
 - [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
