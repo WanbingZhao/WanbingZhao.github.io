@@ -29,16 +29,19 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## Research
 
-- 03/2022-present    
-- Graduation Project: Department of Physics, Shandong University
+- 03/2022-present  [Dianmin Tong Group](https://www.researchgate.net/profile/Dianmin-Tong)  
+  
+     Study the effeciency of quantum error mitigation
 
-- 08/2021-present  Undergraduate Intern: Center on Frontiers of Computing Studies, Peking University
+- 08/2021-present  [
 
-- 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/0\)
+- 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
 
      Updated the existing two-dimensional material transfer station
 
-- 09/2019-09/2020  Research Assitant: Department of Physics, Shandong University
+- 09/2019-09/2020  [Chunlei Wang Group](https://www.researchgate.net/profile/Chunlei-Wang-16)
+
+     Studied the transport properties of thermoelectric materials  using DFT
 
 ## Essay
 - [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
