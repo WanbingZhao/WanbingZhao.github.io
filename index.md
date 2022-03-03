@@ -8,9 +8,9 @@ title: "Valerie Zhao"
 
 # Valerie Zhao
 
-I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by [Guofu Xu](#) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
+I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by [Guofu Xu](https://www.researchgate.net/scientific-contributions/Gangnian-Xu-2144114679) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
 
-I've also visited [Guorui Chen](https://2d.sjtu.edu.cn/)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
+I've also visited [Guorui Chen](https://www.physics.sjtu.edu.cn/en/people/1/guoruichen)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
 
 My research interests lie in quantum foundation, interface between quantum physics and computer science. My motivation is to xxx. 
 
@@ -33,7 +33,7 @@ My research interests lie in quantum foundation, interface between quantum physi
   
      Study the effeciency of quantum error mitigation
 
-- 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
+- 08/2021-present  [Qtheory Group](http://scholar.pku.edu.cn/xiaoyuan)
   
      readout error mitigation with neural networks
 
@@ -41,7 +41,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 
      Updated the existing two-dimensional material transfer station
 
-- 09/2019-09/2020  [Chunlei Wang Group](https://www.researchgate.net/profile/Chunlei-Wang-16)
+- 09/2019-09/2020  [Lanling Zhao Group](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm)
 
      Studied the transport properties of thermoelectric materials  using DFT
 
