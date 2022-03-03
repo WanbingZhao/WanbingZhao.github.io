@@ -4,13 +4,13 @@ title: "Valerie Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zhaowanbing911@gmail.com) \| [CV](https://drive.google.com/file/d/1nLlJS1omULXCDELAlUHWoZv3o2uCKEzC/view?usp=sharing)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zhaowanbing911@gmail.com) \| [CV](https://drive.google.com/drive/folders/1J2WBFcG7EZYgh-MGSziYGtZBK-gwmM_M)
 
 # Valerie Zhao
 
 I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by [Guofu Xu](https://www.researchgate.net/scientific-contributions/Gangnian-Xu-2144114679) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
 
-I've also visited [Guorui Chen](https://www.physics.sjtu.edu.cn/en/people/1/guoruichen)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
+I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
 
 My research interests lie in quantum foundation, interface between quantum physics and computer science. My motivation is to xxx. 
 
@@ -33,7 +33,7 @@ My research interests lie in quantum foundation, interface between quantum physi
   
      Study the effeciency of quantum error mitigation
 
-- 08/2021-present  [Qtheory Group](http://scholar.pku.edu.cn/xiaoyuan)
+- 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
   
      readout error mitigation with neural networks
 
