@@ -33,7 +33,9 @@ My research interests lie in quantum foundation, interface between quantum physi
   
      Study the effeciency of quantum error mitigation
 
-- 08/2021-present  [
+- 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
+  
+     readout error mitigation with neural networks
 
 - 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
 
