@@ -19,7 +19,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 - [March 2021]
 
 ## Publications
-- [Measurement Error Mitigation with Neural Networks](#)()
+- [Measurement Error Mitigation with Neural Networks](#)
 
 - [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
