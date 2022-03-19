@@ -8,7 +8,7 @@ title: "Valerie Zhao"
 
 # Valerie Zhao
 
-I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by [Guofu Xu](https://www.researchgate.net/scientific-contributions/Gangnian-Xu-2144114679) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
+I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
 
 I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
 
