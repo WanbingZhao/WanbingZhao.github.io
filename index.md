@@ -47,3 +47,6 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## Essay
 - [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
+
+## Paper Notes
+- [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
