@@ -4,7 +4,7 @@ title: "Valerie Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zhaowanbing@mail.sdu.edu.cn) \| [CV](https://drive.google.com/file/d/18WyV33s8_yD3oIE4VLaWb7YujnKGtlav/view?usp=sharing)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/18WyV33s8_yD3oIE4VLaWb7YujnKGtlav/view?usp=sharing)
 
 # Wanbing (Valerie) Zhao
 
@@ -30,7 +30,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 ## Research
 - 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/)
 
-     Investigating new quantum adiabatic algorithms。
+     Investigating new quantum adiabatic algorithms
 
 - 03/2022-05/2022  Guofu Xu Group  
   
@@ -56,4 +56,4 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## About Me
 
-- I was born in Jilin, China. In my spare time I like to dance hip-hop, watch movies and travel. I have a twin sister who majors in artificial intelligence，which overlaps with my research to some extent.
+- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin[sister](wy-go.github.io) who majors in artificial intelligence, which overlaps with my research to some extent.
