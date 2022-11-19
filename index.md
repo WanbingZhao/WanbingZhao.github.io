@@ -56,4 +56,4 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## About Me
 
-- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin[sister](wy-go.github.io) who majors in artificial intelligence, which overlaps with my research to some extent.
+- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin [sister](wy-go.github.io) who majors in artificial intelligence, which overlaps with my research to some extent.
