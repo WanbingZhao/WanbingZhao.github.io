@@ -8,7 +8,7 @@ title: "Valerie Zhao"
 
 # Wanbing (Valerie) Zhao
 
-I am an undergraduate graduate, I got my Bachelor of Physics with Honours from Shandong University in June this year. I am now taking a gap year and planning to apply for a Ph.D. in the fall of 2023. I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shanong University.
+I am an undergraduate graduate, I got my Bachelor of Physics with Honours from Shandong University in June this year. I am now taking a gap year and planning to apply for a Ph.D. in the fall of 2023. I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu who is in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shanong University.
 
 I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
 
