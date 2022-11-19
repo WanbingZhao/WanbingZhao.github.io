@@ -8,7 +8,7 @@ title: "Valerie Zhao"
 
 # Valerie Zhao
 
-I am a 4th year physics undergraduate student at Shandong University, where I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.
+I am an undergraduate graduate, I got my Bachelor of Physics with Honours from Shandong University in June this year. I am now taking a gap year and planning to apply for a Ph.D. in the fall of 2023. I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shanong University.
 
 I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
 
@@ -19,7 +19,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 - [March 2021]
 
 ## Publications
-- [Measurement Error Mitigation with Neural Networks](#)
+- [Measurement Error Mitigation with Neural Networks](in preparation)
 
 - [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
@@ -28,14 +28,17 @@ My research interests lie in quantum foundation, interface between quantum physi
   Physica B: Condensed Matter, 2020
 
 ## Research
+-06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/)
 
-- 03/2022-present  [Dianmin Tong Group](https://www.researchgate.net/lab/Dianmin-Tong-Lab)  
+     Investigating new quantum adiabatic algorithms。
+
+- 03/2022-05/2022  [Guofu Xu Group]（）  
   
      Study the effeciency of quantum error mitigation
 
 - 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
   
-     readout error mitigation with neural networks
+     Study measurement error-mitigation strategies with neural networks
 
 - 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
 
@@ -50,3 +53,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## Paper Notes
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
+
+## About Me
+
+- I was born in Jilin, China. In my spare time I like to dance hip-hop, watch movies and travel. I have a twin sister who majors in artificial intelligence，which overlaps with my research to some extent.
