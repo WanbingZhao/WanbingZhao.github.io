@@ -18,7 +18,7 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 <!--## News-->
 
-- [March 2021]
+<!-- - [March 2021]-->
 
 ## Publications
 - [Measurement Error Mitigation with Neural Networks] (in preparation)
