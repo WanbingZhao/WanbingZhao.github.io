@@ -8,20 +8,19 @@ title: "Valerie Zhao"
 
 # Wanbing (Valerie) Zhao
 
-I am an undergraduate graduate. I received my Bachelor of Physics from Shandong University in June this year. I am now taking a gap year and planning to apply for a Ph.D. in the fall of 2023. 
+I am an undergraduate at School of Physics, Shandong University. I received my Bachelor of Science in June this year. 
 
-I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu who is in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
+I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
-I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University.  
+<!-- I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University. -->
 
-My research interests lie in quantum foundation, interface between quantum physics and computer science. <!--My motivation is to xxx.--> 
+My research interests lie in the interface between quantum information and condensed matter physics and quantum machine learning. <!--My motivation is to xxx.--> 
 
 <!--## News-->
 
 <!-- - [March 2021]-->
 
 ## Publications
-- [Measurement Error Mitigation with Neural Networks] (in preparation)
 
 - [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
@@ -32,25 +31,26 @@ My research interests lie in quantum foundation, interface between quantum physi
 ## Research
 - 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/)
 
-     Investigating new quantum adiabatic algorithms
+     Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.
 
 - 03/2022-05/2022  Guofu Xu Group  
   
-     Study the effeciency of quantum error mitigation
+     Studied the effeciency of quantum error mitigation strategies.
 
 - 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
   
-     Study measurement error-mitigation strategies with neural networks
+     Proposed a quantum error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
 
 - 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
 
-     Updated the existing two-dimensional material transfer station
+     Updated the existing two-dimensional material transfer station.
 
 - 09/2019-09/2020  [Lanling Zhao Group](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm)
 
-     Studied the transport properties of thermoelectric materials  using DFT
+     Studied the electronic structures and transport properties of thermoelectric materials using density-functional theory (DFT).
 
 ## Essay
+- Measurement Error Mitigation with Neural Networks (in preparation)
 - [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
 
 ## Paper Notes
@@ -58,4 +58,4 @@ My research interests lie in quantum foundation, interface between quantum physi
 
 ## About Me
 
-- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin [sister](https://wy-go.github.io) who majors in artificial intelligence, which overlaps with my research to some extent.
+- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin [sister](https://wy-go.github.io) who is studying in the area of computer systems and machine learning, who raised my interest in quantum machine learning.
