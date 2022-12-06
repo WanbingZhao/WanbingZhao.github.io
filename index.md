@@ -37,7 +37,7 @@ My research interests lie in the interface between quantum information and conde
   
      Studied the effeciency of quantum error mitigation strategies.
 
-- 08/2021-present  [Qtheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
+- 08/2021-present  [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
   
      Proposed a quantum error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
 
