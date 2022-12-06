@@ -49,9 +49,9 @@ My research interests lie in the interface between quantum information and conde
 
      Studied the electronic structures and transport properties of thermoelectric materials using density-functional theory (DFT).
 
-## Essay
+## Papers
 - Measurement Error Mitigation with Neural Networks (in preparation)
-- [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
+- [The Influence of Music](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
 
 ## Paper Notes
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
