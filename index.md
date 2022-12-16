@@ -4,7 +4,7 @@ title: "Valerie Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/18WyV33s8_yD3oIE4VLaWb7YujnKGtlav/view?usp=sharing)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/1W1oJgGQxsTje4kNUUPqGCWpmREgXjocj/view?usp=sharing)
 
 # Wanbing (Valerie) Zhao
 
