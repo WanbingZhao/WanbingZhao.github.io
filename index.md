@@ -29,7 +29,7 @@ My research interests lie in the interface between quantum information and conde
   Physica B: Condensed Matter, 2020
 
 ## Research
-- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/)
+<!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) !-->
 
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.
 
