@@ -55,7 +55,7 @@ My research interests lie in the interface between quantum information, condense
 
 ## Paper Notes
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
-- [Quantum Self-Supervised Learning](https://docs.google.com/presentation/d/1aTKGMQLXegpj6OgA4Zs9bivxLpxEcaTk/edit?usp=sharing&ouid=115452466567571275021&rtpof=true&sd=true)
+<!-- [Quantum Self-Supervised Learning](https://docs.google.com/presentation/d/1aTKGMQLXegpj6OgA4Zs9bivxLpxEcaTk/edit?usp=sharing&ouid=115452466567571275021&rtpof=true&sd=true)-->
 ## About Me
 
 - I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin [sister](https://wy-go.github.io) who is studying in the area of computer systems and machine learning, who raised my interest in quantum machine learning.
