@@ -1,5 +1,5 @@
 ---
-title: "Valerie Zhao"
+title: "Wanbing Zhao"
 ---
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
@@ -33,7 +33,7 @@ My research interests lie in the interface between quantum information and conde
 
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
 
-- 03/2022-05/2022  Guofu Xu Group  
+- 03/2022-05/2022  [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/lwcg/662813/list/index.htm)
   
      Studied the effeciency of quantum error mitigation strategies.
 
