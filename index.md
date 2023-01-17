@@ -4,7 +4,7 @@ title: "Valerie Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/1W1oJgGQxsTje4kNUUPqGCWpmREgXjocj/view?usp=sharing)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/1dbXR6mgzVwU3Npg7L73yuymmB8b4jvkx/view?usp=share_link)
 
 # Wanbing (Valerie) Zhao
 
@@ -29,9 +29,9 @@ My research interests lie in the interface between quantum information and conde
   Physica B: Condensed Matter, 2020
 
 ## Research
-<!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) !-->
+<!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) 
 
-     Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.
+     Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
 
 - 03/2022-05/2022  Guofu Xu Group  
   
