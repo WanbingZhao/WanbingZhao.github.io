@@ -8,7 +8,7 @@ title: "Wanbing Zhao"
 
 # Wanbing Zhao
 
-I am a first year PhD at Rice CS working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
+I am a first year PhD at Rice CS working with Prof. [Naihui Chia Group](https://sites.google.com/view/naihuichia).  
 
 I have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
@@ -61,4 +61,6 @@ My research interests include exploring entropy inequalities and the use of rand
 <!-- [Quantum Self-Supervised Learning](https://docs.google.com/presentation/d/1aTKGMQLXegpj6OgA4Zs9bivxLpxEcaTk/edit?usp=sharing&ouid=115452466567571275021&rtpof=true&sd=true)-->
 ## About Me
 
-- * I was born in Jilin, China. * In my spare time, I like to dance hip-hop. * I have a twin [sister](https://wy-go.github.io) who is studying in the area of computer systems and machine learning.
+- I was born in Jilin, China.
+- In my spare time, I like to dance hip-hop.
+- My twin [sister](https://wy-go.github.io) works on machine learning and computer systems at UIUC.
