@@ -63,4 +63,4 @@ My research interests include exploring entropy inequalities and the use of rand
 
 - I was born in Jilin, China.
 - In my spare time, I like to dance hip-hop.
-- My twin [sister](https://wy-go.github.io) works on machine learning and computer systems at UIUC.
+- My [twin sister](https://wy-go.github.io) works on machine learning and computer systems at UIUC.
