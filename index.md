@@ -2,19 +2,19 @@
 title: "Wanbing Zhao"
 ---
 
-![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
+![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao2.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bingoostars@gmail.com) \| [CV](https://drive.google.com/file/d/150KHJTSFDX6mbsOViiD1_Oixmx36oub4/view?usp=share_link)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [CV](https://drive.google.com/file/d/150KHJTSFDX6mbsOViiD1_Oixmx36oub4/view?usp=share_link)
 
-# Wanbing (Valerie) Zhao
+# Wanbing Zhao
 
-I am an undergraduate at School of Physics, Shandong University. I received my Bachelor of Science in June this year. 
+I am a first year PhD at Rice CS working with Prof. Naihui Chia.  
 
-I have been lucky to be advised by [Lanling Zhao](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm) and later by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
+I have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
 <!-- I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University. -->
 
-My research interests lie in the interface between quantum information, condensed matter physics and machine learning. <!--My motivation is to xxx.--> 
+My research interests include exploring entropy inequalities and the use of randomness in quantum algorithms, state analysis, and random unitaries within quantum information theory. <!--My motivation is to xxx.--> 
 
 <!--## News-->
 
