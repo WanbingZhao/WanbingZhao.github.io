@@ -8,7 +8,7 @@ title: "Wanbing Zhao"
 
 # Wanbing Zhao
 
-I am a first year PhD at Rice CS working with Prof. [Naihui Chia Group](https://sites.google.com/view/naihuichia).  
+I am a first year PhD at Rice CS working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
 
 I have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
@@ -32,7 +32,7 @@ My research interests include exploring entropy inequalities and the use of rand
 <!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) 
 
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
-- 08/2023-present [Naihui Chia](https://sites.google.com/view/naihuichia)
+- 08/2023-present [Naihui Chia Group](https://sites.google.com/view/naihuichia)
 
     Currently working on identifying the power of various quantum hardware.
   
