@@ -8,7 +8,7 @@ title: "Wanbing Zhao"
 
 # Wanbing Zhao
 
-I am a first year PhD at Rice CS working with Prof. Naihui Chia.  
+I am a first year PhD at Rice CS working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
 
 I have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
@@ -20,7 +20,7 @@ My research interests include exploring entropy inequalities and the use of rand
 
 <!-- - [March 2021]-->
 
-## Publications
+<!-- ## Publications
 
 - [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
 
@@ -32,20 +32,23 @@ My research interests include exploring entropy inequalities and the use of rand
 <!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) 
 
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
+- 08/2023-present [Naihui Chia](https://sites.google.com/view/naihuichia)
 
-- 03/2022-05/2022  [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/lwcg/662813/list/index.htm)
+    Currently working on identifying the power of various quantum hardware.
   
-     Studied the effeciency of quantum error mitigation strategies.
+<!-- 03/2022-05/2022  [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/lwcg/662813/list/index.htm)
+  
+     Studied the effeciency of quantum error mitigation strategies.!-->
 
-- 08/2021-present  [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
+- 08/2021-08/2022  [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
   
-     Proposed a quantum error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
+     Proposed a measurement error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
 
 - 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
 
      Updated the existing two-dimensional material transfer station.
 
-- 09/2019-09/2020  [Lanling Zhao Group](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm)
+<!-- - 09/2019-09/2020  [Lanling Zhao Group](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm)
 
      Studied the electronic structures and transport properties of thermoelectric materials using density-functional theory (DFT).
 
@@ -58,4 +61,4 @@ My research interests include exploring entropy inequalities and the use of rand
 <!-- [Quantum Self-Supervised Learning](https://docs.google.com/presentation/d/1aTKGMQLXegpj6OgA4Zs9bivxLpxEcaTk/edit?usp=sharing&ouid=115452466567571275021&rtpof=true&sd=true)-->
 ## About Me
 
-- I was born in Jilin, China. In my spare time, I like to dance hip-hop, watch movies and travel. I have a twin [sister](https://wy-go.github.io) who is studying in the area of computer systems and machine learning, who raised my interest in quantum machine learning.
+- * I was born in Jilin, China. * In my spare time, I like to dance hip-hop. * I have a twin [sister](https://wy-go.github.io) who is studying in the area of computer systems and machine learning.
