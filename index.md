@@ -34,7 +34,7 @@ My research interests include exploring entropy inequalities and the use of rand
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
 - 08/2023-present [Naihui Chia Group](https://sites.google.com/view/naihuichia)
 
-    Currently working on identifying the power of various quantum hardware.
+    Working on identifying the power of various quantum hardware.
   
 <!-- 03/2022-05/2022  [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/lwcg/662813/list/index.htm)
   
