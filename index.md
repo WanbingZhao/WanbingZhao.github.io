@@ -10,11 +10,13 @@ title: "Wanbing Zhao"
 
 I am a second-year PhD at Rice CS working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
 
-I have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
+I received a BSc in physics from Shandong University (Shandong Province, China). 
 
-<!-- I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University. -->
+<!-- have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
 
-My research interests lie in quantum error correction and the interplay between quantum information theory and many-body physics. I also worked on topics including error mitigation and first-principles simulations.<!--My motivation is to xxx.--> 
+I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University. -->
+
+My research interests lie in quantum error correction and the interplay between quantum information theory and many-body physics. I also worked on topics including error mitigation and first-principles simulations. <!--My motivation is to xxx.--> 
 
 <!--## News-->
 
