@@ -59,9 +59,9 @@ My research interests lie in quantum error correction and the interplay between 
 - [The Influence of Music](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)-->
 
 ## Paper Notes
-- [Fiber Bundle Fault Tolerance of GKP Codes]([https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing](https://www.overleaf.com/read/fqkmymppydtp#42e05d))
+- [Fiber Bundle Fault Tolerance of GKP Codes](https://www.overleaf.com/read/fqkmymppydtp#42e05d)
+- [Quantum Algebraic Codes]()
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
-- [Quantum Self-Supervised Learning](https://docs.google.com/presentation/d/1aTKGMQLXegpj6OgA4Zs9bivxLpxEcaTk/edit?usp=sharing&ouid=115452466567571275021&rtpof=true&sd=true)
 
 ## About Me
 
