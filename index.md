@@ -4,7 +4,7 @@ title: "Wanbing Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [CV](https://drive.google.com/file/d/150KHJTSFDX6mbsOViiD1_Oixmx36oub4/view?usp=share_link)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [CV](https://drive.google.com/file/d/1pvTxHO25DR8mjDrcLcGiblrot65CftQ8/view?usp=sharing)
 
 # Wanbing Zhao
 
@@ -59,8 +59,8 @@ My research interests lie in quantum error correction and the interplay between 
 - [The Influence of Music](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)-->
 
 ## Paper Notes
-- [Fiber Bundle Fault Tolerance of GKP Codes](https://www.overleaf.com/read/fqkmymppydtp#42e05d)
-- [Quantum Algebraic Codes]()
+- [Fiber Bundle Fault Tolerance of GKP Codes]([https://www.overleaf.com/read/fqkmymppydtp#42e05d](https://drive.google.com/file/d/1w9GUv35nbuBk0mIVOqWIamGL_Ta_t0WW/view?usp=sharing))
+- [Quantum Algebraic Codes](https://drive.google.com/file/d/1pKop8D1gCbg07odloXcmUYcXYJ932wQm/view?usp=sharing)
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
 
 ## About Me
