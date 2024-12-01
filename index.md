@@ -8,7 +8,7 @@ title: "Wanbing Zhao"
 
 # Wanbing Zhao
 
-I am a second-year PhD at Rice CS working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
+I am a second-year PhD at Rice working with Prof. [Naihui Chia](https://sites.google.com/view/naihuichia).  
 
 I received a BSc in physics from Shandong University (Shandong Province, China). 
 
@@ -34,7 +34,7 @@ My research interests lie in quantum error correction and the interplay between 
 <!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) 
 
      Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
-- 08/2023-present [Naihui Chia Group](https://sites.google.com/view/naihuichia)
+- 08/2023-present [Naihui Chia & Kevin Slagle & Kaden Hazzard](https://news.rice.edu/news/2023/rice-helps-lead-national-quantum-computing-research-efforts)
 
     Working on identifying the power of various quantum hardware.
   
