@@ -27,7 +27,7 @@ I am a second-year PhD student at Rice University. My research focuses on quantu
 ## Research Experience
 
 - **08/2023–Present**: [Kaden Hazzard & Nai-Hui Chia & Kevin Slagle](https://news.rice.edu/news/2023/rice-helps-lead-national-quantum-computing-research-efforts), Rice University  
-  - Investigating the power and potential of various quantum hardware platforms for advancing quantum computation.
+  - Investigating the power and potential of various quantum hardware platforms for quantum computation.
 
 - **08/2021–08/2022**: [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University  
   - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
