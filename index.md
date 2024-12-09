@@ -39,7 +39,7 @@ I am a second-year PhD student at Rice University. My research focuses on quantu
 
 ## Selected Activities
 
-- **Subviewer for _QIP2025_ and _TQC2024_ **
+- **Subviewer：** _QIP2025_, _TQC2024_ 
 - **Invited Talk:** _Academia Sinica_, _Taiwan_, [Jan 2024]. Delivered a talk titled _Measurement Error Mitigation with
 Generative Machine Learning Models_.
 
@@ -60,6 +60,6 @@ Generative Machine Learning Models_.
 ## About Me
 
 - I was born in Jilin, China.
-- In my spare time, I enjoy hip-hop dancing as a creative and physical outlet.
+- In my spare time, I enjoy hip-hop dancing and aspire to become more professional in it.
 - My [twin sister](https://wy-go.github.io) is a researcher focusing on machine learning and computer systems at UIUC.
 
