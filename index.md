@@ -8,18 +8,19 @@
 
 ---
 
-I am a second-year PhD student in the Department of Computer Science at Rice University. My research focuses on quantum information theory, with particular interest in quantum error correction and its interplay with many-body physics. I have also worked on topics such as error mitigation and first-principles simulations. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the field of quantum computation.
+I am a second-year PhD student at Rice University. My research focuses on quantum information theory, with particular interest in its interplay with many-body physics and quantum error correction. I have also worked on topics such as error mitigation and first-principles simulations. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the field of quantum computation.
 
 ---
 
 ## Academic Background
 
 - **BSc in Physics**, Shandong University (Shandong Province, China)  
-  During my undergraduate studies, I was fortunate to be mentored by [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/index.htm) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.  
+  During my undergraduate studies, I was fortunate to be mentored by [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/index.htm).  
 
-- **Visiting Research Experiences:**  
-  - [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
+- **Visiting Research Experiences:**
   - [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University
+  - [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
+
 
 ---
 
@@ -29,7 +30,7 @@ I am a second-year PhD student in the Department of Computer Science at Rice Uni
   - Investigating the power and potential of various quantum hardware platforms for advancing quantum computation.
 
 - **08/2021–08/2022**: [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University  
-  - Proposed a novel measurement error mitigation algorithm employing generative models to suppress errors in quantum measurements.
+  - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
 
 - **02/2021**: [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
   - Enhanced the efficiency of a two-dimensional material transfer station for experimental setups.
@@ -38,8 +39,9 @@ I am a second-year PhD student in the Department of Computer Science at Rice Uni
 
 ## Selected Activities
 
-- **Subviewer for QIP and TQC Conferences:** Reviewed submissions for the leading conferences in quantum information theory and computation.
-- **Invited Talk:** Delivered a seminar at Academia Sinica in Taipei, Taiwan, sharing insights on my work in quantum error correction and computational techniques.
+- **Subviewer for _QIP2025_ and _TQC2024_ **
+- **Invited Talk:** _Academia Sinica_, _Taiwan_, [Jan 2024]. Delivered a talk titled _Measurement Error Mitigation with
+Generative Machine Learning Models_.
 
 ---
 
