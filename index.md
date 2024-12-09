@@ -1,72 +1,63 @@
 ---
-title: "Wanbing Zhao"
----
+
+# Wanbing Zhao
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [CV](https://drive.google.com/file/d/1KyPJtpm88fyVmgpWNlZIxi9S2zJuGUQ0/view?usp=sharing)
 
-# Wanbing Zhao
+---
 
-I am a second-year PhD at Rice.  
+I am a second-year PhD student in the Department of Computer Science at Rice University. My research focuses on quantum information theory, with particular interest in quantum error correction and its interplay with many-body physics. I have also worked on topics such as error mitigation and first-principles simulations. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the field of quantum computation.
 
-I received a BSc in physics from Shandong University (Shandong Province, China). 
+---
 
-<!-- have been lucky to be advised by Guofu Xu in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group at Shandong University.
+## Academic Background
 
-I've also visited [Guorui Chen](https://scholar.google.com/citations?user=1vAbo0oAAAAJ&hl=zh-CN)'s group at Shanhai Jiaotong University, and [Xiao Yuan](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)'s group at Peking University. -->
+- **BSc in Physics**, Shandong University (Shandong Province, China)  
+  During my undergraduate studies, I was fortunate to be mentored by [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/index.htm) in [Dianmin Tong](https://www.researchgate.net/profile/Dianmin-Tong)'s group.  
 
-My research interests lie in quantum error correction and the interplay between quantum information theory and many-body physics. I also worked on topics including error mitigation and first-principles simulations. <!--My motivation is to xxx.--> 
+- **Visiting Research Experiences:**  
+  - [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
+  - [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University
 
-<!--## News-->
+---
 
-<!-- - [March 2021]-->
+## Research Experience
 
-<!-- ## Publications
+- **08/2023–Present**: [Kaden Hazzard & Nai-Hui Chia & Kevin Slagle](https://news.rice.edu/news/2023/rice-helps-lead-national-quantum-computing-research-efforts), Rice University  
+  - Investigating the power and potential of various quantum hardware platforms for advancing quantum computation.
 
-- [Theoretical study on the electronic structures and transport properties of Ti<sub>32-x</sub>Hf<sub>x</sub>Ni32Sn<sub>32-y</sub>Sb<sub>y</sub>half-Heusler compounds.](https://www.sciencedirect.com/science/article/abs/pii/S092145262030394X)
+- **08/2021–08/2022**: [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University  
+  - Proposed a novel measurement error mitigation algorithm employing generative models to suppress errors in quantum measurements.
 
-  Zhao, L., Wang, J., **Zhao, W.**, Wang, Q., Li, J., Liu, J., Wang, C.
+- **02/2021**: [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
+  - Enhanced the efficiency of a two-dimensional material transfer station for experimental setups.
 
-  Physica B: Condensed Matter, 2020
+---
 
-## Research
-<!--- 06/2022-present  [Daniel Lidar Group](http://qserver.usc.edu/blog/2016/02/daniel-lidar/) 
+## Selected Activities
 
-     Investigating a new quantum algorithm - quantum annealer with a driver made out of long-range interactions.!-->
-- 08/2023-present [Nai-Hui Chia & Kevin Slagle & Kaden Hazzard](https://news.rice.edu/news/2023/rice-helps-lead-national-quantum-computing-research-efforts)
+- **Subviewer for QIP and TQC Conferences:** Reviewed submissions for the leading conferences in quantum information theory and computation.
+- **Invited Talk:** Delivered a seminar at Academia Sinica in Taipei, Taiwan, sharing insights on my work in quantum error correction and computational techniques.
 
-    Working on identifying the power of various quantum hardware.
-  
-<!-- 03/2022-05/2022  [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/lwcg/662813/list/index.htm)
-  
-     Studied the efficiency of quantum error mitigation strategies.!-->
-
-- 08/2021-08/2022  [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm)
-  
-     Proposed a measurement error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
-
-- 02/2021    [Guorui Chen Group](https://2d.sjtu.edu.cn/)
-
-     Updated the existing two-dimensional material transfer station.
-
-<!-- - 09/2019-09/2020  [Lanling Zhao Group](https://faculty.sdu.edu.cn/zhaolanling/en/index.htm)
-
-     Studied the electronic structures and transport properties of thermoelectric materials using density-functional theory (DFT).
-
-## Papers
-- Measurement Error Mitigation with Neural Networks (in preparation)
-- [The Influence of Music](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)-->
+---
 
 ## Paper Notes
-Codes - [Fiber Bundle Fault Tolerance of GKP Codes](https://drive.google.com/file/d/1eagWrIsXtD-SJ7-Mk-iormJfQEdo7QpV/view?usp=sharing)
-      - [Quantum Algebraic Geometry Codes](https://drive.google.com/file/d/1xbadj8NQ-0Zn9qpHrv_118O6B7WEiqSY/view?usp=sharing)
-      
-VQA - [Obstacles to Variational Quantum Optimization from Symmetry Protection & Limitations of variational quantum algorithms: a quantum optimal transport approach.](https://drive.google.com/file/d/1SxPj4pmdnQABgFffW5wIwj5GTCxSwite/view?usp=sharing)
-    - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
+
+### Quantum Error Correction and Fault Tolerance
+- [Fiber Bundle Fault Tolerance of GKP Codes](https://drive.google.com/file/d/1eagWrIsXtD-SJ7-Mk-iormJfQEdo7QpV/view?usp=sharing)  
+- [Quantum Algebraic Geometry Codes](https://drive.google.com/file/d/1xbadj8NQ-0Zn9qpHrv_118O6B7WEiqSY/view?usp=sharing)
+
+### Variational Quantum Algorithms (VQA)
+- [Obstacles to Variational Quantum Optimization from Symmetry Protection & Limitations of variational quantum algorithms: a quantum optimal transport approach](https://drive.google.com/file/d/1SxPj4pmdnQABgFffW5wIwj5GTCxSwite/view?usp=sharing)  
+- [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
+
+---
 
 ## About Me
 
 - I was born in Jilin, China.
-- In my spare time, I like to dance hip-hop.
-- My [twin sister](https://wy-go.github.io) works on machine learning and computer systems at UIUC.
+- In my spare time, I enjoy hip-hop dancing as a creative and physical outlet.
+- My [twin sister](https://wy-go.github.io) is a researcher focusing on machine learning and computer systems at UIUC.
+
