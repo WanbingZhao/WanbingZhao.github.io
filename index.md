@@ -62,5 +62,5 @@ Generative Machine Learning Models_.
 
 - I was born in Jilin, China.
 - In my spare time, I enjoy hip-hop dancing and aspire to become more professional in it.
-- My [twin sister](https://wy-go.github.io) is a researcher focusing on machine learning and computer systems at UIUC.
+- My [twin sister](https://wy-go.github.io) is a PhD student focusing on machine learning and computer systems at UIUC.
 
