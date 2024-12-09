@@ -30,7 +30,7 @@ I am a second-year PhD student at Rice University. My research focuses on quantu
   - Investigating the power and potential of various quantum hardware platforms for quantum computation.
 
 - **08/2021–08/2022**: [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University  
-  - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative model in an equation-solving style.
+  - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative machine learning model.
 
 - **02/2021**: [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
   - Enhanced the efficiency of a two-dimensional material transfer station for experimental setups.
