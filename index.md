@@ -1,11 +1,12 @@
 ---
-
-# Wanbing Zhao
+title: "Wanbing Zhao"
+---
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [CV](https://drive.google.com/file/d/1KyPJtpm88fyVmgpWNlZIxi9S2zJuGUQ0/view?usp=sharing)
 
+# Wanbing Zhao
 ---
 
 I am a second-year PhD student at Rice University. My research focuses on quantum information theory, with particular interest in its interplay with many-body physics and quantum error correction. I have also worked on topics such as error mitigation and first-principles simulations. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the field of quantum computation.
