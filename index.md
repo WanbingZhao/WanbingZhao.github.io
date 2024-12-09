@@ -8,7 +8,7 @@ title: "Wanbing Zhao"
 
 # Wanbing Zhao
 
-I am a second-year PhD at Rice working with Prof. [Nai-Hui Chia](https://sites.google.com/view/naihuichia).  
+I am a second-year PhD at Rice.  
 
 I received a BSc in physics from Shandong University (Shandong Province, China). 
 
