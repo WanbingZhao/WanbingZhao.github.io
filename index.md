@@ -25,7 +25,8 @@ I am a third-year PhD student in the [Applied Physics Program](https://appliedph
 ### Quantum error mitigation  
 *[Xiao Yuan](https://scholar.google.com/citations?user=eUDwq-wAAAAJ&hl=en) Group, Peking University*
 
-- Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative machine learning model.
+- *Measurement error mitigation with generative machine learning models*
+  We propose a novel measurement error mitigation algorithm to suppress the measurement error by applying a generative machine learning model.
 
 ---
 
