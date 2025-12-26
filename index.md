@@ -9,32 +9,23 @@ title: "Wanbing Zhao"
 # Wanbing Zhao
 ---
 
-I am a second-year PhD student at Rice University. My research focuses on quantum information theory, with particular interest in its interplay with many-body physics and quantum error correction. I have also worked on topics such as error mitigation and first-principles simulations. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the field of quantum computation.
+I am a third-year PhD student in the [Applied Physics Program](https://appliedphysics.rice.edu/) at Rice University, advised by Prof. [Vir B. Bulchandani](https://profiles.rice.edu/faculty/vir-b-bulchandani). My research focuses on quantum information theory and its interplay with many-body physics. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the foundations of quantum computation.
 
 ---
 
-## Academic Background
+## Research
 
-- **BSc in Physics**, Shandong University (Shandong Province, China)  
-  During my undergraduate studies, I was fortunate to be mentored by [Guofu Xu](https://faculty.sdu.edu.cn/xuguofu/en/index.htm).  
+### Nonlocal games  
+**Rice University**
 
-- **Visiting Research Experiences:**
-  - [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University
-  - [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
+- *Scalable tests of quantum contextuality from stabilizer-testing nonlocal games*  
+  [[PDF](https://arxiv.org/pdf/2512.16654)]  
+  We study a class of binary-valued n-player (n ≥ 3) nonlocal games that generalize Mermin’s parity game for the GHZ state to arbitrary stabilizer codes. We establish a universal upper bound of 7/8 on the classical values of such games whenever they admit quantum advantage, coming from the Reed–Muller code RM(3,n). We show that the local stabilizer algebra can give rise to simple scalable families of nonlocal games with unbounded quantum–classical bias ratios as n grows.
 
+### Quantum error mitigation  
+**[Xiao Yuan](https://scholar.google.com/citations?user=eUDwq-wAAAAJ&hl=en) Group**, Peking University
 
----
-
-## Research Experience
-
-- **08/2023–Present**: [Kaden Hazzard & Nai-Hui Chia & Kevin Slagle](https://news.rice.edu/news/2023/rice-helps-lead-national-quantum-computing-research-efforts), Rice University  
-  - Investigating the power and potential of various quantum hardware platforms for quantum computation.
-
-- **08/2021–08/2022**: [Xiao Yuan Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), Peking University  
-  - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative machine learning model.
-
-- **02/2021**: [Guorui Chen Group](https://2d.sjtu.edu.cn/), Shanghai Jiaotong University  
-  - Enhanced the efficiency of a two-dimensional material transfer station for experimental setups.
+- Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative machine learning model.
 
 ---
 
