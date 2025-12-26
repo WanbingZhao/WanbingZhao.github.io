@@ -4,7 +4,7 @@ title: "Wanbing Zhao"
 
 ![avatar](https://raw.github.com/wanbingzhao/wanbingzhao.github.io/main/wbzhao.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [Google Scholar](https://drive.google.com/file/d/1KyPJtpm88fyVmgpWNlZIxi9S2zJuGUQ0/view?usp=sharing](https://scholar.google.com/citations?user=3v-ElCAAAAAJ&hl=en&authuser=1)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wz56@rice.edu) \| [Google Scholar](https://scholar.google.com/citations?user=3v-ElCAAAAAJ&hl=en&authuser=1)
 
 # Wanbing Zhao
 ---
