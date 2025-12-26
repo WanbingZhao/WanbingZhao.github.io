@@ -16,14 +16,14 @@ I am a third-year PhD student in the [Applied Physics Program](https://appliedph
 ## Research
 
 ### Nonlocal games  
-**Rice University**
+*Rice University*
 
 - *Scalable tests of quantum contextuality from stabilizer-testing nonlocal games*  
-  [[PDF](https://arxiv.org/pdf/2512.16654)]  
+  [[arXiv](https://arxiv.org/abs/2512.16654)]  
   We study a class of binary-valued n-player (n ≥ 3) nonlocal games that generalize Mermin’s parity game for the GHZ state to arbitrary stabilizer codes. We establish a universal upper bound of 7/8 on the classical values of such games whenever they admit quantum advantage, coming from the Reed–Muller code RM(3,n). We show that the local stabilizer algebra can give rise to simple scalable families of nonlocal games with unbounded quantum–classical bias ratios as n grows.
 
 ### Quantum error mitigation  
-**[Xiao Yuan](https://scholar.google.com/citations?user=eUDwq-wAAAAJ&hl=en) Group**, Peking University
+*[Xiao Yuan](https://scholar.google.com/citations?user=eUDwq-wAAAAJ&hl=en) Group, Peking University*
 
 - Proposed a novel measurement error mitigation algorithm to suppress the measurement error by applying the generative machine learning model.
 
