@@ -11,7 +11,9 @@ title: "Wanbing Zhao"
 
 I am a fourth-year PhD student in the [Applied Physics Program](https://appliedphysics.rice.edu/) at Rice University, advised by Prof. [Vir B. Bulchandani](https://profiles.rice.edu/faculty/vir-b-bulchandani). My research focuses on quantum information theory and its interplay with many-body physics. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the foundations of quantum computation.
 
-The research questions I currently ask are: What's the 'true' quantumness that provides quantum speedups? What's the natural physical model for implementing error-resilient tasks with provable quantum advantage? 
+I‘m currently interested in answering questions like:
+- What's the 'true' quantumness that provides quantum speedups?
+- What's the natural physical model for implementing error-resilient tasks with provable quantum advantage? 
  
 ---
 
@@ -22,7 +24,7 @@ The research questions I currently ask are: What's the 'true' quantumness that p
 
 - *Scalable tests of quantum contextuality from stabilizer-testing nonlocal games* [[arXiv:2512.16654](https://arxiv.org/abs/2512.16654)]  
   - We study a class of binary-valued n-player (n ≥ 3) nonlocal games that generalize Mermin’s star to arbitrary stabilizer codes. We establish a universal upper bound of 7/8 on the classical values of such games whenever they admit quantum advantage, coming from the Reed–Muller code RM(3,n). We show that the local stabilizer algebra can give rise to simple scalable families of nonlocal games with unbounded quantum–classical bias ratios as n grows.
-  - The stabilizer-testing nonlocal games provide a benchmark with three benefits: physical meaning—contextuality; quantum-classical separation directly related to fidelity per qubit; for both current and future quantum devices.
+  - The stabilizer-testing nonlocal games provide a benchmark for quantum processors with three benefits: physical meaning—contextuality; quantum-classical separation directly related to fidelity per qubit; for both current and future quantum devices.
 
 ### Quantum error mitigation  
 *[Xiao Yuan](https://scholar.google.com/citations?user=eUDwq-wAAAAJ&hl=en) Group, Peking University*
