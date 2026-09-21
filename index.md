@@ -42,7 +42,7 @@ Generative Machine Learning Models.
 
 ---
 
-## Notes
+## Paper Notes
 
 ### Quantum Error Correction and Fault Tolerance
 - [Fiber Bundle Fault Tolerance of GKP Codes](https://drive.google.com/file/d/1eagWrIsXtD-SJ7-Mk-iormJfQEdo7QpV/view?usp=sharing)  
@@ -52,7 +52,7 @@ Generative Machine Learning Models.
 - [Obstacles to Variational Quantum Optimization from Symmetry Protection & Limitations of variational quantum algorithms: a quantum optimal transport approach](https://drive.google.com/file/d/1SxPj4pmdnQABgFffW5wIwj5GTCxSwite/view?usp=sharing)  
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
 ### Lectures on Quantum Dynamics
-- [Quantum Dynamics on $\mathbb{Z}_d$](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing](https://drive.google.com/file/d/15r5atFHemAZuys46MRGuYu-LuQRyBbao/view?usp=sharing)
+- [Quantum Dynamics on $\mathbb{Z}_d$](https://drive.google.com/file/d/15r5atFHemAZuys46MRGuYu-LuQRyBbao/view?usp=sharing)
 
 ---
 
