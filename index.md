@@ -41,7 +41,7 @@ I‘m currently interested in answering questions like:
 Generative Machine Learning Models.
   - _Cornell_, [Oct 2026]. I will give a talk on stabilizer-testing nonlocal games on YouTube at [Quantum Theory Seminar series at LASSP](https://www.youtube.com/@quantumtheoryseminar6651/streams).
 - **Workshop:**
-  - [_AID-Wild: AI Agents for Discovery in the Wild_](https://ai-discovery-in-the-wild.github.io/), _workshop at [ACM CAIS 2026](https://www.caisconf.org/)_. [Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?](https://github.com/wy-go/StatMech-Agent) 
+  - [AID-Wild: AI Agents for Discovery in the Wild_](https://ai-discovery-in-the-wild.github.io/papers.html), _workshop at [ACM CAIS 2026](https://www.caisconf.org/)_. Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?
 
 ---
 
