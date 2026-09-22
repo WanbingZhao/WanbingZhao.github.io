@@ -12,11 +12,10 @@ title: "Wanbing Zhao"
 I am a fourth-year PhD student in the [Applied Physics Program](https://appliedphysics.rice.edu/) at Rice University, advised by Prof. [Vir B. Bulchandani](https://profiles.rice.edu/faculty/vir-b-bulchandani). My research focuses on quantum information theory and its interplay with many-body physics. I am passionate about understanding the mathematical structures underpinning quantum systems and advancing the foundations of quantum computation.
 
 I‘m currently interested in answering questions like:
-- What's the 'true' quantumness that provides quantum speedups?
+- What's the 'true' many-body quantumness that provides quantum speedups?
 - What's the natural physical model for implementing error-resilient tasks with provable quantum advantage? 
  
 ---
-
 ## Research
 
 ### Nonlocal games  
@@ -37,8 +36,12 @@ I‘m currently interested in answering questions like:
 ## Selected Activities
 
 - **Subviewer：** _QIP2025_, _TQC2024_ 
-- **Invited Talk:** _Academia Sinica_, _Taiwan_, [Jan 2024]. Measurement Error Mitigation with
+- **Invited Talk:**
+ - _Academia Sinica_, _Taiwan_, [Jan 2024]. Measurement Error Mitigation with
 Generative Machine Learning Models.
+ - I will give an online talk on stabilizer-testing nonlocal games in October through YouTube livestreaming at [Quantum Theory Seminar series at LASSP](https://www.youtube.com/@quantumtheoryseminar6651/streams) of Cornell.
+- **Workshop Paper**
+  - _AID-Wild: AI Agents for Discovery in the Wild_, _workshop at ACM CAIS 2026_. [Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?](https://github.com/wy-go/StatMech-Agent) 
 
 ---
 
@@ -51,8 +54,9 @@ Generative Machine Learning Models.
 ### Variational Quantum Algorithms (VQA)
 - [Obstacles to Variational Quantum Optimization from Symmetry Protection & Limitations of variational quantum algorithms: a quantum optimal transport approach](https://drive.google.com/file/d/1SxPj4pmdnQABgFffW5wIwj5GTCxSwite/view?usp=sharing)  
 - [Machine learning of high dimensional data on a noisy quantum processor](https://drive.google.com/file/d/1JVrfIe8dcfMQ08WaThREQ1kFX8U85mvP/view?usp=sharing)
+
 ### Lectures on Quantum Dynamics
-- [Quantum Dynamics on $Z_d$](https://drive.google.com/file/d/15r5atFHemAZuys46MRGuYu-LuQRyBbao/view?usp=sharing)
+- [Quantum Dynamics on Z_d](https://drive.google.com/file/d/15r5atFHemAZuys46MRGuYu-LuQRyBbao/view?usp=sharing)
 
 ---
 
